@@ -20,7 +20,7 @@ A **Malware Sandbox Detector** written in C that detects if the system is runnin
 
 ## 🖥️ Installation & Usage  
 ```sh
-git clone https://github.com/4stersec/sandbox_detector.git ;
+git clone https://github.com/4stersec/sandbox_detector.git 
 ```
 
 ### 🔹 **Requirements**  
@@ -80,6 +80,5 @@ This project is released under the **MIT License**.
 ## ⭐ Contribute  
 
 Contributions are welcome! Feel free to open an issue or a pull request.  
-```
-```
+
 
