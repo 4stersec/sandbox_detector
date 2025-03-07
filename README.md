@@ -1,4 +1,3 @@
-```md
 # 🛡️ Malware Sandbox Detector  
 
 A **Malware Sandbox Detector** written in C that detects if the system is running in a virtualized or sandboxed environment. This tool checks for common indicators used by malware sandboxes, virtual machines (VMs), and debuggers.
@@ -27,6 +26,7 @@ A **Malware Sandbox Detector** written in C that detects if the system is runnin
 
 ### 🔹 **Compile the Code**  
 ```sh
+git clone https://github.com/4stersec/sandbox_detector.git ; 
 gcc sandbox_detector.c -o sandbox_detector.exe
 ```
 
@@ -78,14 +78,9 @@ This project is released under the **MIT License**.
 ## ⭐ Contribute  
 
 Contributions are welcome! Feel free to open an issue or a pull request.  
-
-```sh
-
 ```
-
+```
+```
 🚀 **Stay ahead of cybersecurity threats!**  
 ```
 
----
-
-This README is **GitHub-friendly** with proper **Markdown formatting, installation steps, and feature explanations**. Let me know if you want any changes or additions! 🚀
