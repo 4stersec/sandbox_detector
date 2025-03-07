@@ -1,9 +1,3 @@
-Here’s a **README.md** file for your **Malware Sandbox Detector** tool, formatted for GitHub. It includes installation instructions, usage details, detection techniques, and possible improvements.  
-
----
-
-### 📜 **README.md** for Malware Sandbox Detector  
-
 ```md
 # 🛡️ Malware Sandbox Detector  
 
@@ -86,7 +80,7 @@ This project is released under the **MIT License**.
 Contributions are welcome! Feel free to open an issue or a pull request.  
 
 ```sh
-git clone https://github.com/4stersec/Malware-Sandbox-Detector.git
+
 ```
 
 🚀 **Stay ahead of cybersecurity threats!**  
