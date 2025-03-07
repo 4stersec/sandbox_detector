@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <windows.h>
 #include <tlhelp32.h>
-#include <sysinfoapi.h>
 #include <time.h>
 
 #define UPTIME_THRESHOLD 300  // 5 minutes
