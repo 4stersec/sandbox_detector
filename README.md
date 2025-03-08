@@ -4,6 +4,10 @@ A **Malware Sandbox Detector** written in C that detects if the system is runnin
 
 ---
 
+https://github.com/user-attachments/assets/7c1e9474-fe01-494f-85e0-41f910aac73b
+
+
+
 ## 🚀 Features  
 
 ✅ **System Uptime Check** – Detects if the system has been running for a short time (common in sandboxes).  
